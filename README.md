@@ -17,7 +17,16 @@ Cli
 You can also use it as a library. main.c is just a cli frontend in fact. 
 
 # installation
-Some algorithms use python so ensure you have an interpreter downloaded and setup.
+Ensure you can run python code fine on your machine to run this program.
+
+Currently only building from source is supported.  
+Dependencies
+- python3
+- make (gmake on bsd)
+- ghc
+- rust
+- g++
+Use the script "dependencies.sh" to see if you are missing any executable.
 
 # Contributing
 Start by adding your name to credits.md, then read contributing.md 
