@@ -25,7 +25,7 @@ Dependencies
 - make (gmake on bsd)
 - ghc
 - rust
-- g++
+- g++  
 Use the script "dependencies.sh" to see if you are missing any executable.
 
 # Contributing
