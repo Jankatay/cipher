@@ -30,5 +30,5 @@ Dependencies
 Use the script "dependencies.sh" to see if you are missing any executable.
 
 # Contributing
-Start by adding your name to credits.md, then read contributing.md 
+Start by adding your name to credits.md, then read contributing.md  
 Documentation is stored in doc/
