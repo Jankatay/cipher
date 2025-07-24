@@ -17,7 +17,7 @@ From the cli
 You can also use it as a library. cipher.c is simply a frontend, in fact. 
 
 # installation
-On windows use wsl, should work fine on macos too but I don't have a macbook to check.
+On windows use wsl, should work fine on macos too but I don't have a macbook to check.  
 Ensure you can run python code fine on your machine to run this program.  
 
 Currently only building from source is supported.  
