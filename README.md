@@ -1,5 +1,5 @@
 # cipher
-Try out encoding and decoding with different algorithms. Designed to be as easily contributed as possible using C, rust, haskell, or python.
+Try out encoding and decoding with different algorithms. Designed to be as easily contributed as possible using C, rust, haskell, or python. Just knowing or wanting to learn one of these is enough to get started.
 
 # usage
 The cipher 
