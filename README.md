@@ -2,7 +2,7 @@
 Try out encoding and decoding with different algorithms. Designed to be as easily contributed as possible in C, rust, haskell, or python.
 
 # usage
-Cli
+The cipher 
 ```
 ./cipher --help             // lists algorithms
 ./cipher --algorithm --help // show a specific algorithm's usage
@@ -14,7 +14,7 @@ Cli
 ./cipher --template-caesar --encode "hello, world"
 ./cipher --template-caesar --decode "ifmmp, xpsmu"
 ```
-You can also use it as a library. main.c is just a cli frontend in fact. 
+You can also use it as a library. cipher.c is simply a frontend, in fact. 
 
 # installation
 Ensure you can run python code fine on your machine to run this program.
